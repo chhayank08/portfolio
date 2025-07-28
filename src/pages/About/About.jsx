@@ -1,5 +1,4 @@
 import HeroImg from "@/assets/images/hero.jpg";
-import OlovaLogo from "@/assets/images/olova.png";
 
 export default function About() {
   return (
@@ -53,13 +52,15 @@ export default function About() {
                       Chhayank Kashyap, Creator of
                     </cite>
                     <div className="flex items-center gap-2">
-                      <img
-                        className="h-5 w-fit"
-                        src={OlovaLogo}
-                        alt="Olova Logo"
-                        height="20"
-                        width="auto"
-                      />
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#6C63FF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="h-8 w-8">
+                        <path d="m6.5 6.5 11 11"></path>
+                        <path d="m21 21-1-1"></path>
+                        <path d="m3 3 1 1"></path>
+                        <path d="m18 22 4-4"></path>
+                        <path d="m2 6 4-4"></path>
+                        <path d="m3 10 7-7"></path>
+                        <path d="m14 21 7-7"></path>
+                      </svg>
                       <span className="text-white">FitnessFuel</span>
                     </div>
                   </div>
