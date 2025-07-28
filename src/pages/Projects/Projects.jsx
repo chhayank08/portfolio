@@ -23,7 +23,7 @@ const projects = [
     link: portfolioImg,
     color: "#8f89ff",
 
-    liveLink: "https://codervai.vercel.app",
+    liveLink: "https://chhayankkashyap.vercel.app/",
   },
 ];
 
