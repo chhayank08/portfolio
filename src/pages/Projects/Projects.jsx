@@ -4,6 +4,7 @@ import { useRef, useEffect } from "react";
 import PropTypes from "prop-types";
 import fitnessfuelImg from "@/assets/images/fitnessfuel.png";
 import prepbudImg from "@/assets/images/Prepbud.png";
+import portfolioImg from "@/assets/images/portfolio.png";
 
 const projects = [
   {
@@ -23,6 +24,15 @@ const projects = [
     link: prepbudImg,
     color: "#8f89ff",
     liveLink: "https://prepbud.vercel.app/",
+  },
+  {
+    title: "Portfolio Website",
+    description:
+      "Responsive personal portfolio built with React and Tailwind CSS showcasing AI/ML projects, skills, and experience with smooth Framer Motion animations and a clean product-focused UI/UX.",
+    src: portfolioImg,
+    link: portfolioImg,
+    color: "#38bdf8",
+    liveLink: "https://chhayankkashyap.vercel.app/",
   },
 ];
 
