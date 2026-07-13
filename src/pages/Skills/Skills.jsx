@@ -118,7 +118,8 @@ const SkillsSection = () => {
       title: "Data & Automation",
       color: "text-pink-400",
       skills: [
-        { name: "Selenium", icon: <BsGrid1X2 className="w-4 h-4 text-[#43B02A]" /> },
+        { name: "SSIS", icon: <BsGrid1X2 className="w-4 h-4 text-[#43B02A]" /> },
+        { name: "Microsoft Visual Studio 2022", icon: <TbBrandVscode className="w-4 h-4 text-[#5C2D91]" /> },
         { name: "Pandas", icon: <FaPython className="w-4 h-4 text-[#150458]" /> },
         { name: "SQL", icon: <SiPostgresql className="w-4 h-4 text-[#336791]" /> },
         { name: "ETL Pipelines", icon: <FcWorkflow className="w-4 h-4" /> },
