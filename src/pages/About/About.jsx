@@ -6,7 +6,7 @@ export default function About() {
       <section id="about" className="py-16 md:py-32  text-white bg-[#04081A]">
         <div className="mx-auto max-w-5xl space-y-8 px-6 md:space-y-16">
           <h2 className="relative z-10 max-w-xl text-4xl font-medium lg:text-5xl text-white">
-            AI/ML Developer, Data Engineer, Full-Stack Builder
+            AI Engineer, Full-Stack Developer
           </h2>
           <div className="grid gap-6 sm:grid-cols-2 md:gap-12 lg:gap-24">
             <div className="relative mb-6 sm:mb-0">
@@ -23,9 +23,9 @@ export default function About() {
 
             <div className="relative space-y-4">
               <p className="text-white">
-                Hello! I'm Chhayank Kashyap, an AI/ML and Full-Stack Developer
-                currently working as a Data Engineer at Infosys, building
-                scalable automation and ETL workflows.{" "}
+                Hello! I'm Chhayank Kashyap, an AI Engineer and Full-Stack
+                Developer currently working as a Test Engineer at Infosys,
+                building scalable automation and ETL workflows.{" "}
                 <span className="font-bold text-white">
                   Creator of FitnessFuel and PrepBud
                 </span>

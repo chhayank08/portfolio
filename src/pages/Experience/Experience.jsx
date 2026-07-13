@@ -55,11 +55,11 @@ const ExperienceSection = () => {
   const experiences = [
     {
       icon: Network,
-      title: "Data Engineer",
+      title: "Test Engineer",
       company: "Infosys Limited",
       period: "Nov 2025 - Present",
       description:
-        "Designing scalable ETL workflows using SSIS, SQL, Python, and Shell Scripting. Building Selenium-based automation solutions for web workflow testing, data extraction, and process automation.",
+        "Developing and optimizing ETL and automation workflows using Microsoft Visual Studio 2022, SSIS, SQL, Python, and Shell Scripting for reliable data processing and validation.",
     },
     {
       icon: Layers,

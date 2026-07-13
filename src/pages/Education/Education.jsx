@@ -62,16 +62,16 @@ const EducationSection = () => {
 
   const experienceData = [
     {
-      role: "Data Engineer",
+      role: "Test Engineer",
       company: "Infosys Limited",
       location: "Hyderabad",
       period: "Nov 2025 - Present",
       mascot: "🏢",
-      tags: ["Python", "SSIS", "SQL", "Selenium", "Shell Scripting", "Unix"],
+      tags: ["Python", "SSIS", "SQL", "Shell Scripting", "Unix", "Visual Studio 2022"],
       points: [
-        "Designed and optimized scalable ETL workflows using SSIS, SQL, Python, Shell Scripting, and Unix to improve data processing reliability and reporting efficiency.",
-        "Developed Selenium-based automation solutions for web workflow testing, data extraction, validation, and process automation, reducing manual effort significantly.",
-        "Built and maintained automation pipelines focused on reliability and faster execution feedback, leveraging DSA concepts and scripting-based optimization.",
+        "Developed and optimized ETL and automation workflows using Microsoft Visual Studio 2022, SSIS, SQL, Python, Shell scripting, and Unix to support reliable data processing.",
+        "Implemented data processing and validation workflows using Python, SSIS, SQL, and Shell scripting to automate ETL tasks and perform data quality checks.",
+        "Built and maintained data processing and validation workflows enabling automated ETL operations and efficient database management.",
       ],
     },
     {

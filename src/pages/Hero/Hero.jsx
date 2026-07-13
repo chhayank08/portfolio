@@ -42,8 +42,8 @@ const GridBackground = () => {
 
 export default function Hero() {
   const words = [
-    "AI/ML & Full-Stack Developer",
-    "Data Engineer at Infosys",
+    "AI Engineer & Full-Stack Developer",
+    "Test Engineer at Infosys",
     "Creator of FitnessFuel & PrepBud",
     "RAG & LLM Integration Specialist",
   ];
@@ -51,7 +51,7 @@ export default function Hero() {
   const [code] = useState(`
 const profile = {
     name: 'Chhayank Kashyap',
-    title: 'AI/ML & Full-Stack Developer | Data Engineer',
+    title: 'AI Engineer | Full-Stack Developer',
     skills: [
         'Python', 'React', 'Next.js', 'LangChain',
         'PostgreSQL', 'RAG', 'TypeScript', 'Flask'
@@ -59,7 +59,7 @@ const profile = {
     hardWorker: true,
     quickLearner: true,
     problemSolver: true,
-    currentRole: 'Data Engineer @ Infosys',
+    currentRole: 'Test Engineer @ Infosys',
     hireable: function() {
         return (
             this.hardWorker &&
